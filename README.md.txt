@@ -21,9 +21,13 @@ Where does the output go, and why?
 
 Question: How do I get to the bathroom?
 Person thanks you
+
 Smile
+
 Don't smile, but try not to be rude 
+
 Check your mood
+
 Listen to the question and think about an answer
 Determine where the bathroom is in relation to 
 your current location
