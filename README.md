@@ -27,6 +27,8 @@ One person should type in the processes.
                      Determine the landmarks that should be used to determine if the user has gone too far, e.g.
                      Room 408 (the room with a full-length glass window to the side)
 	             Understand that gratitude has been expressed and respond accordingly
+
+		     Check your mood
                      If you are not in a good mood
 
 
