@@ -11,8 +11,8 @@ One person should type in the processes.
 
 |Input              |Process                                 |Output                                               |
 |-------------------|----------------------------------------|-----------------------------------------------------|
-|                   |                                        |                                          |
-|                   |                                        |                                            |
+|Question: How do I get to the bathroom?                   |                                        |                                          |
+|Person thanks you                   |                                        |                                            |
 |                   |                                        |                                          |
 
 ### Determine the inputs processes and outputs when someone asks for the bathroom: 
