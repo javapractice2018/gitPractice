@@ -19,7 +19,7 @@ Where does the output go, and why?
 
 ### Determine the inputs processes and outputs when someone asks for the bathroom: 
 
-Question: How do I get to the bathroom?
+Question: How do I get to the bathroom?\s
 Person thanks you
 
 Smile
